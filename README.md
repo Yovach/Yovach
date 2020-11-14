@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hello 👋
 
-<!--
-**Yovach/Yovach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently 20 years old, I'm a French developper who makes various projects to expand my skills and learn more.
 
-Here are some ideas to get you started:
+I have been used to working with JS / TS for 2 years. I am one of the developers of the private server Blablaland.fun from the French game of the same name which closed in 2017.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Soft-skills 🚀
+
+- autonomous
+- productivity
+- team-working
+- punctuality
+- personal growth
+
+### Skills  👨🏻‍💻 
+
+- TypeScript, Python, C#, Java, PHP
+- MySQL, Redis
+- Windows, GNU/Linux
+- Git, Trello
+- VSCode
+
+### Statistics 📊
+
+<img src="https://github-readme-stats.vercel.app/api?username=Yovach&show_icons=true&count_private=true">
