@@ -1,6 +1,6 @@
 # Hello 👋
 
-Currently 20 years old, I'm a French developper who makes various projects to expand my skills and learn more.
+Currently 21 years old, I'm a French developper who makes various projects to expand my skills and learn more.
 
 I have been used to working with JS / TS for 2 years. I am one of the developers of the private server Blablaland.fun from the French game of the same name which closed in 2017.
 
