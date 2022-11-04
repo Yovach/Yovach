@@ -1,16 +1,8 @@
 # Hello 👋
 
-Currently 21 years old, I'm a French developper who makes various projects to expand my skills and learn more.
+Currently 22 years old, I'm a French developper who makes various projects to expand my skills and learn more.
 
-Learning Rust.. 🤖
-
-### Soft-skills 🚀
-
-- autonomous
-- productivity
-- team-working
-- punctuality
-- personal growth
+Mainly focused on front-end thanks to React.js and Tailwind CSS.
 
 ### Skills  👨🏻‍💻 
 
