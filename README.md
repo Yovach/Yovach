@@ -1,17 +1,33 @@
 # Hello 👋
 
-Currently 22 years old, I'm a French developper who makes various projects to expand my skills and learn more.
+I'm a French developper who makes various projects to expand my skills and learn more.
 
-Mainly focused on front-end thanks to React.js and Tailwind CSS.
+## Skills  👨🏻‍💻
+- TypeScript / JavaScript
+- Python
+- PHP
 
-### Skills  👨🏻‍💻 
+### TypeScript / JavaScript Ecosystem
+React, Next.js, Electron, Prisma, tRPC, Fastify
 
-- TypeScript, Python, C#, Java, PHP
-- MySQL, Redis
-- Windows, GNU/Linux
-- Git, Trello
-- VSCode
+### CSS Ecosystem
+Tailwind CSS, Sass
 
-### Statistics 📊
+### PHP Ecosystem
+Symfony
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yovach&show_icons=true&count_private=true">
+### Databases
+MySQL, MariaDB, PostgreSQL
+
+### CI/CD
+Git, CI/CD, Docker
+
+### Other
+WebSocket, TCP Socket, HTTP, Redis, Windows, GNU/Linux (Ubuntu, Debian), Figma
+
+
+## Personal projects 🏷️
+- a Minecraft server (2012 - 2013)
+- a mod with multiplayer capabilities (chatbox) for a 2D game (2015 - 2017)
+- a private server for a 2D chat game (2017 - 2022)
+- Echlor (2021 - ...)
